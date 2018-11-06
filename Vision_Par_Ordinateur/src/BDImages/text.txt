@@ -1,0 +1,15 @@
+
+Reste à faire : 
+	- Comparaison Pixel à Pixel
+	- Distance Euclidienne
+	- Clusters
+
+Dans 15 jours
+
+BagOfWords
+Distance Euclidienne
+
+Jouer sur la taille des histo, le nombre de mots dans les bag of words, nombre de clusters
+
+Rapport : Capture d'écran + Quantifier les classifications, combien d'images du bon dossier.
+
